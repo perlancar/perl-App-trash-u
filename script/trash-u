@@ -26,6 +26,7 @@ my $cmd = Perinci::CmdLine::Classic->new(
     },
     default_subcommand => 'trash',
     undo => 1,
+    log => 1,
 );
 
 delete $cmd->common_opts->{list};
@@ -134,4 +135,3 @@ B<trash-cli>
 B<gvfs-trash>
 
 B<rmv>
-
