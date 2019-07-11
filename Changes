@@ -1,4 +1,4 @@
-0.20     2016-12-27 (PERLANCAR)
+0.20     2016-12-27  Released-By: PERLANCAR
 
          - First release, split from File-Trash-Undoable to reduce dependencies
            on that dist.
